@@ -1,5 +1,3 @@
-Perfect 👍 — since you’ve used **scikit-learn** (for the trendline regression model inside `plotly.express` and potentially future ML extensions), here’s the **updated `README.md`** including it properly in the **Tech Stack**, **Requirements**, and **Enhancements** sections 👇
-
 ---
 
 # 💰 Stock Market Insights Dashboard
@@ -150,7 +148,9 @@ Create this file as `requirements.txt`.
 ## 👨‍💻 Author
 
 **Sanjai M**
+
 B.E. Computer Science and Engineering (AI & ML)
+
 KPR Institute of Engineering and Technology
 
 📬 *If you like this project, give it a ⭐ on GitHub!*
