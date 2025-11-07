@@ -1,5 +1,3 @@
-Perfect 👍 — since you’ve used **scikit-learn** (for the trendline regression model inside `plotly.express` and potentially future ML extensions), here’s the **updated `README.md`** including it properly in the **Tech Stack**, **Requirements**, and **Enhancements** sections 👇
-
 ---
 
 # 💰 Stock Market Insights Dashboard
@@ -14,12 +12,19 @@ It helps users visualize **price trends, trading volume, volatility patterns, an
 ## 🚀 Features
 
 ✅ **Live Data Fetching** from Yahoo Finance using `yfinance`
+
 ✅ **Candlestick Chart** with Moving Averages (MA20 & MA50)
+
 ✅ **Volume Trend Analysis**
+
 ✅ **Daily Returns Distribution**
+
 ✅ **Rolling Volatility (20-day)**
+
 ✅ **Volume vs Closing Price Correlation** (using Linear Regression with scikit-learn via Plotly)
+
 ✅ **Correlation Heatmap** for Market Indicators
+
 ✅ **Dynamic Insights Section** with Key Metrics
 
 ---
@@ -143,7 +148,9 @@ Create this file as `requirements.txt`.
 ## 👨‍💻 Author
 
 **Sanjai M**
+
 B.E. Computer Science and Engineering (AI & ML)
+
 KPR Institute of Engineering and Technology
 
 📬 *If you like this project, give it a ⭐ on GitHub!*
