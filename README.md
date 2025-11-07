@@ -14,12 +14,19 @@ It helps users visualize **price trends, trading volume, volatility patterns, an
 ## 🚀 Features
 
 ✅ **Live Data Fetching** from Yahoo Finance using `yfinance`
+
 ✅ **Candlestick Chart** with Moving Averages (MA20 & MA50)
+
 ✅ **Volume Trend Analysis**
+
 ✅ **Daily Returns Distribution**
+
 ✅ **Rolling Volatility (20-day)**
+
 ✅ **Volume vs Closing Price Correlation** (using Linear Regression with scikit-learn via Plotly)
+
 ✅ **Correlation Heatmap** for Market Indicators
+
 ✅ **Dynamic Insights Section** with Key Metrics
 
 ---
